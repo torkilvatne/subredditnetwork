@@ -1,0 +1,43 @@
+Time elapsed: 				 0.0 secondsRequests performed:			 1Total requests performed:		 1Percent completed:			 555*******************
+Requests performed:			 2Total requests performed:		 2Percent completed:			 555Detected subreddits:			*******************
+Time elapsed: 				 6.32 secondsRequests performed:			 3Total requests performed:		 3Percent completed:			 555*******************
+Requests performed:			 4Total requests performed:		 4Percent completed:			 555Detected subreddits:			*******************
+Time elapsed: 				 13.39 secondsRequests performed:			 5Total requests performed:		 5Percent completed:			 555*******************
+
+Percent completed:			 555 
+Detected subreddits:			 
+******************* 
+
+Time elapsed: 				 12.23 seconds 
+Requests performed:			 6 
+Total requests performed:		 6 
+Percent completed:			 555 
+Detected subreddits:			 
+******************* 
+
+Time elapsed: 				 14.07 seconds 
+Requests performed:			 7 
+Total requests performed:		 7 
+Percent completed:			 555 
+******************* 
+
+Requests performed:			 8 
+Total requests performed:		 8 
+Percent completed:			 555 
+Detected subreddits:			 
+******************* 
+
+Requests performed:			 9 
+Total requests performed:		 9 
+Percent completed:			 555 
+Detected subreddits:			 
+******************* 
+
+Time elapsed: 				 19.91 seconds 
+################################################################################
+################################################################################
+################################################################################
+SESSION ENDED
+################################################################################
+################################################################################
+################################################################################
